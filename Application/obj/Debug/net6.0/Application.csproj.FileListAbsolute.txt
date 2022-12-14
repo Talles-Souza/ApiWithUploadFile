@@ -1,0 +1,30 @@
+C:\C#\DotNetCore\Application\bin\Debug\net6.0\Application.deps.json
+C:\C#\DotNetCore\Application\bin\Debug\net6.0\Application.dll
+C:\C#\DotNetCore\Application\bin\Debug\net6.0\Application.pdb
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\Application.dll
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\refint\Application.dll
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\Application.pdb
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\ref\Application.dll
+C:\C#\DotNetCore\Application\bin\Debug\net6.0\Domain.dll
+C:\C#\DotNetCore\Application\bin\Debug\net6.0\Domain.pdb
+C:\C#\DotNetCore\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\bin\Debug\net6.0\Application.dll
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\Application.dll
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\talles\Downloads\ApiDotNet-main (1)\ApiDotNet-main\Application\obj\Debug\net6.0\ref\Application.dll
